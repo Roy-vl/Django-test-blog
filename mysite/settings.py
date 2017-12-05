@@ -25,7 +25,7 @@ SECRET_KEY = 'k+=oz-9=c-e^!j^wr7z-(3-9+-7%1%sigeznv#@r4d$6foi1sd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'populop.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'royvl.pythonanywhere.com']
 
 
 # Application definition
